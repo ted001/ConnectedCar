@@ -4,7 +4,8 @@
   * 车
     * 嵌入式系统开发
       * 汽车电子
-      * 树莓派
+    * 汽车文化
+      * 《汽车百年》
   * 网络
     * 互联网基础
       * TCP/UDP/IP
@@ -54,7 +55,9 @@
 
   * 物联网入门
     * Rethinking the internet of things
-    * 
+  * 物联网系统设计开发
+
+    * 树莓派+Arduino
 
 
 
