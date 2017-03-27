@@ -21,6 +21,7 @@
       * NGTP
       * Sirius Xm
       * Verizon
+    * AWS
   * 实际应用
     * 车联网大数据应用--UBI
     * V2V和ADAS主动安全知识
@@ -48,6 +49,7 @@
     * 
 
 * IOT
+
   * 物联网入门
     * Rethinking the internet of things
     * 
