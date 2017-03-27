@@ -21,7 +21,9 @@
       * NGTP
       * Sirius Xm
       * Verizon
-    * AWS
+    * 云计算
+      * AWS
+    * 大数据
   * 实际应用
     * 车联网大数据应用--UBI
     * V2V和ADAS主动安全知识
