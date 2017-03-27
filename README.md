@@ -1,4 +1,28 @@
-# 我的This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录自己的学习历程
+
+* 车联网
+  * 车内网络
+  * 车际网络
+  * 云端网络
+    * 平台架构
+      * NGTP
+      * Sirius Xm
+      * Verizon
+  * 实际应用
+    * 车联网大数据应用--UBI
+    * V2V和ADAS主动安全知识
+    * V2X智能交通知识
+    * 新能源汽车车联网发展
+    * 互联网跨界造车发展
+      * 国内：蔚来、乐视。。。
+      * 国外：Tesla、Google
+* 软件架构
+  * 高焕堂--A段架构师
+  * 温昱--软件架构师
+
+* 成长
+  * 李笑来--通往财富自由之路
+  * 
 
 
 
